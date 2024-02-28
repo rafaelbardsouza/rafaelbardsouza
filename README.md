@@ -1,7 +1,11 @@
-# Hello, i'm Rafael
+# Hello, i'm Rafael! 👋
 
-## About me
-- Software Engineer Student
-- Currently obsessed with WebDev
+## About Me
+- 🎓 Software Engineering Student
+- 💻 Currently focused on Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## My Skills:
+[![My Skills](https://skillicons.dev/icons?i=c,postgresql,github,css,js,mongodb,express,react,nodejs)](https://skillicons.dev)
+
+## Interests/Studying:
+[![My Skills](https://skillicons.dev/icons?i=svelte,golang,linux)](https://skillicons.dev)
