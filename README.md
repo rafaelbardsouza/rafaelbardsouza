@@ -5,4 +5,4 @@
 - 💻 Currently focused on Web Development
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,github,js,react,svelte,nestjs,php,dart,mysql,postgresql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nest,react,svelte,mysql,mongo,php,postgresql,c,cs,dart,go,js,express)](https://skillicons.dev)
